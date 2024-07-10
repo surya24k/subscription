@@ -1,0 +1,39 @@
+.main {
+    margin: 50px 50px 10px;
+    border: 1px solid black;
+}
+.main h2 {
+    margin: 1px 5px 5px 1px;
+}
+.main h1 {
+    margin-left: 20px;
+}
+.subscribe {
+    background-color: rgb(218, 216, 216);
+    position: relative;
+    margin: 30px;
+    padding: 2px;
+}
+.subscribe input[type="text"],input[type="email"]{
+    position: relative;
+    margin: 10px;
+    width: 95%;
+}
+.subscribe input[type="checkbox"]{
+    margin-bottom: 10px;
+}
+.form{
+    background-color: white;
+}
+.button{
+    text-align: center;
+    padding: 10px;
+}
+button{
+    background-color: rgb(14, 185, 31);
+    color: white;
+    width: 90%;
+}
+
+
+
